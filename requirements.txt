@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 streamlit
 ultralytics
 opencv-python-headless
@@ -11,3 +12,10 @@ opencv-python-headless
 numpy
 Pillow
 >>>>>>> bc365a0a6ce1b0244c3bf9d856b40a008e08da6f
+=======
+opencv-python-headless
+ultralytics
+streamlit
+numpy
+Pillow
+>>>>>>> d0f4bc9bfe9f8ff79d315269bdd12f2556604a84
