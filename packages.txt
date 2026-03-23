@@ -1,6 +1,1 @@
 libgl1
-<<<<<<< HEAD
-libglib2.0-0
-=======
-
->>>>>>> d0f4bc9bfe9f8ff79d315269bdd12f2556604a84
